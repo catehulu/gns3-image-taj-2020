@@ -1,0 +1,5 @@
+vtysh_enable=yes
+zebra=yes
+ospfd=yes
+bgpd=yes
+rip=yes

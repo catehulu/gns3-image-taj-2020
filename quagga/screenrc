@@ -1,0 +1,6 @@
+mousetrack on
+screen -t supervisord 1 /usr/bin/supervisord -c /superv/supervisord.conf
+screen -t Shell1 2 sh
+screen -t Shell1 3 sh
+select 2
+
